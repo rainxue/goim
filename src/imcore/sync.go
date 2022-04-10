@@ -1,0 +1,5 @@
+package imcore
+
+func sync() {
+	
+}

@@ -15,4 +15,5 @@
 # vendor/
 pkg/
 .vscode/
+bin/
 
